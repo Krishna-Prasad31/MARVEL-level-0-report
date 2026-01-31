@@ -35,3 +35,29 @@ To complete this task, I used **WSL (Windows Subsystem for Linux)** to run Linux
 
 # Task 6: The Matrix Puzzle — Decode with NumPy & Reveal the Image
 
+**Python** has a huge variety of libraries. **NumPy** and **Matpotlib** are two very useful libraries widely used for various applications having to deal with number system and data visualization.
+
+## NumPy(Numerical Python):
+- Used for numerical and scientific computing
+- Efficient data structures to handle large arrays and matrices
+- Includes functions to perform mathematical operations on the data
+- Improves computational speed by using optimized, low-level implementations and by supporting operations on entire arrays without explicit loops.
+
+## Matplotlib:
+  - It allows users to create various types of plots such as line graphs, bar charts, histograms, etc
+  - Helps in representing numerical data graphically making it easier to analyze patterns.
+
+This task had a scrambled matrix , and my job was to reorder the matrix using NumPy operations and then reveal the image using Matplotlib.
+
+![website](https://i.postimg.cc/cJRKHHsK/Screenshot-(400).png)
+![website](https://i.postimg.cc/tJT72NF1/Screenshot-(403).png)
+
+### Operations used:
+- `arr.shape` = returns the number of rows and columns of the matrix.
+- `arr.size` = returns the total number of elements peresent in the arary.
+- `arr.reshape()` = changes the shape of an array.
+- `imshow()` = displays data as an image
+- `show()` = displays the plot
+
+In the end a **smiley face** was revealed
+
