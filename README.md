@@ -65,6 +65,10 @@ In the end a **smiley face** was revealed
 The portfolio website was developed to showcase my skills, projects and my tech backgoud in a structured and visually appealing manner. The portfolio webiste helps me present my works and projects to the recuiter, peers and collaborators in a single paltform.
 
 I used HTML, CSS and React JS to develop my portfolio website
+![website](https://i.postimg.cc/mDPR6Lm8/Screenshot-(440).png)
+![website](https://i.postimg.cc/mDPR6Lm8/Screenshot-(440).png)
+![website](https://i.postimg.cc/mDPR6Lm8/Screenshot-(440).png)
+![website](https://i.postimg.cc/mDPR6Lm8/Screenshot-(440).png)
 
 
 [GitHub Repository](https://github.com/Krishna-Prasad31/Personal-portfolio)
