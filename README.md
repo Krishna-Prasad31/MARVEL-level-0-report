@@ -61,3 +61,10 @@ This task had a scrambled matrix , and my job was to reorder the matrix using Nu
 
 In the end a **smiley face** was revealed
 
+# TASK 7: Create a Portfolio Webpage
+The portfolio website was developed to showcase my skills, projects and my tech backgoud in a structured and visually appealing manner. The portfolio webiste helps me present my works and projects to the recuiter, peers and collaborators in a single paltform.
+
+I used HTML, CSS and React JS to develop my portfolio website
+
+
+[GitHub Repository](https://github.com/Krishna-Prasad31/Personal-portfolio)
