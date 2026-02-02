@@ -82,3 +82,17 @@ In this task the main components used were Arduino UNO, L298N and a working moto
 - This action varies the voltage to the motor thus affecting its speed.
 ![Speed changing](https://i.postimg.cc/cH4qr5dW/IMG-5853-JPG.jpg)
 [YouTube link](https://youtu.be/yBS88l1xOc8)
+
+# TASK 11: LED Toggle Using ESP32
+In this task we have to toggle LED using a webserver. For this task we mainly use ESP32, arduino code editor, LEDs, wires and resistors(220Ω).
+
+**ESP32 :** It is a small powerful microcontroller with WiFi and Bluetooth, it also controlls the harware components. It runs code faster than arduino uno and is cheap. It is used in many IoT applications.
+
+Connections are made as shown in the circuit diagram
+![ESP32](https://microdigisoft.com/wp-content/uploads/2021/08/ESP32-1_bb-768x1506.jpg.webp)
+
+A wired connection between ESP32 and the Arduino IDE in the PC is established using a USB-A to micro USB cable. the required code is written in the IDE and is compiled and then uploaded into the ESP32 which is firmly connected to the other components through the GIPO pins. When the uploading of the code is completed an IP address will be generated in the IDE and in any browser you can enter that IP address and get access to the web server which toggles the LEDs.
+
+![Website](https://i.postimg.cc/x1zvL6qH/IMG-5874-JPG.jpg)
+![Website](https://i.postimg.cc/ZRR0xqjg/IMG-5875-JPG.jpg)
+![Website](https://i.postimg.cc/Qt9Krt5N/IMG-5876-JPG.jpg)
