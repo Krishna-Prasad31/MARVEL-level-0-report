@@ -100,5 +100,37 @@ A wired connection between ESP32 and the Arduino IDE in the PC is established us
 # TASK 12: Soldering Prerequisites
 Soldering Prerequisites involved learning about the soldering equipment available in the laboratory, including the soldering iron, solder wire, soldering wick, and flux, and understanding their proper usage. Basic soldering was performed on a perf board. The procedure included placing components correctly, applying flux, heating the joint using a soldering iron, and forming proper solder joints while following necessary safety precautions. This task helped in gaining hands-on experience with soldering techniques and understanding the importance of correct equipment handling and supervision in electronics laboratory work.
 
-![website](https://i.postimg.cc/g0DrFhnj/IMG-5884-JPG.jpg)\
+![website](https://i.postimg.cc/g0DrFhnj/IMG-5884-JPG.jpg)
 ![website](https://i.postimg.cc/B6bSrwrK/IMG-5885-JPG.jpg)
+
+# TASK 13: 555 Astable Multivibrator (60% Duty Cycle)
+A 555 timer IC was designed and configured in astable mode to generate a continuous square wave output with a duty cycle of approximately 60%. In astable operation, the 555 timer does not require any external triggering and continuously switches between HIGH and LOW states, making it suitable for waveform generation.
+
+| Components | Quantity |
+|------------|----------|
+| 555 timer IC | 1 |
+| Resistors Ra = 10 KΩ | 1 |
+| Resistors Rb = 20 KΩ | 1 |
+| Capacitor C = 10 µF | 2 |
+| Bread board | 1 |
+| DC Power supply | 1 |
+| Connecting wires | as per requirement |
+
+
+The duty cycle of the astable multivibrator depends on the values of resistors **Ra** and **Rb** and capacitor **C1, C2**.
+
+$$
+\text{Duty Cycle} = \frac{R_A + R_B}{R_A + 2R_B} \times 100
+$$
+
+$$
+\text{Duty Cycle} = \frac{30}{50} \times 100 = 60\%
+$$
+
+![website](https://i.postimg.cc/tC6Bd3rz/tim47.webp)
+
+The circuit connections were made as shown in the above circuit diagram. The DC power supply was connected to the IC and then using the probes the output waveform was observed on the digital CRO screen by connecting the probes across the output and ground.
+The waveform was an expected square wave.
+
+![website](https://i.postimg.cc/nrPNsnh9/IMG-5896-JPG.jpg)
+[YouTube Link](https://youtu.be/McGIs_mJHJM)
