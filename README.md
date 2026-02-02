@@ -66,9 +66,9 @@ The portfolio website was developed to showcase my skills, projects and my tech 
 
 I used HTML, CSS and React JS to develop my portfolio website
 ![website](https://i.postimg.cc/mDPR6Lm8/Screenshot-(440).png)
-![website](https://i.postimg.cc/mDPR6Lm8/Screenshot-(441).png)
-![website](https://i.postimg.cc/mDPR6Lm8/Screenshot-(442).png)
-![website](https://i.postimg.cc/mDPR6Lm8/Screenshot-(443).png)
+![website](https://github.com/Krishna-Prasad31/MARVEL-level-0-report/blob/main/Screenshot%20(441).png?raw=true)
+![website](https://github.com/Krishna-Prasad31/MARVEL-level-0-report/blob/main/Screenshot%20(442).png?raw=true)
+![website](https://github.com/Krishna-Prasad31/MARVEL-level-0-report/blob/main/Screenshot%20(443).png?raw=true)
 
 
 [GitHub Repository](https://github.com/Krishna-Prasad31/Personal-portfolio)
