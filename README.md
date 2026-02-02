@@ -66,9 +66,9 @@ The portfolio website was developed to showcase my skills, projects and my tech 
 
 I used HTML, CSS and React JS to develop my portfolio website
 ![website](https://i.postimg.cc/mDPR6Lm8/Screenshot-(440).png)
-![website](https://i.postimg.cc/mDPR6Lm8/Screenshot-(440).png)
-![website](https://i.postimg.cc/mDPR6Lm8/Screenshot-(440).png)
-![website](https://i.postimg.cc/mDPR6Lm8/Screenshot-(440).png)
+![website](https://i.postimg.cc/mDPR6Lm8/Screenshot-(441).png)
+![website](https://i.postimg.cc/mDPR6Lm8/Screenshot-(442).png)
+![website](https://i.postimg.cc/mDPR6Lm8/Screenshot-(443).png)
 
 
 [GitHub Repository](https://github.com/Krishna-Prasad31/Personal-portfolio)
@@ -96,3 +96,9 @@ A wired connection between ESP32 and the Arduino IDE in the PC is established us
 ![Website](https://i.postimg.cc/x1zvL6qH/IMG-5874-JPG.jpg)
 ![Website](https://i.postimg.cc/ZRR0xqjg/IMG-5875-JPG.jpg)
 ![Website](https://i.postimg.cc/Qt9Krt5N/IMG-5876-JPG.jpg)
+
+# TASK 12: Soldering Prerequisites
+Soldering Prerequisites involved learning about the soldering equipment available in the laboratory, including the soldering iron, solder wire, soldering wick, and flux, and understanding their proper usage. Basic soldering was performed on a perf board. The procedure included placing components correctly, applying flux, heating the joint using a soldering iron, and forming proper solder joints while following necessary safety precautions. This task helped in gaining hands-on experience with soldering techniques and understanding the importance of correct equipment handling and supervision in electronics laboratory work.
+
+![website](https://i.postimg.cc/g0DrFhnj/IMG-5884-JPG.jpg)\
+![website](https://i.postimg.cc/B6bSrwrK/IMG-5885-JPG.jpg)
