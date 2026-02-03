@@ -134,3 +134,43 @@ The waveform was an expected square wave.
 
 ![website](https://i.postimg.cc/nrPNsnh9/IMG-5896-JPG.jpg)
 [YouTube Link](https://youtu.be/McGIs_mJHJM)
+
+# TASK 14: Karnaugh Maps and Deriving the Logic Circuit
+The Objective of this task is to design a *Burglar Alarm Circuit* based on two input conditions
+
+1. Status of the door (is opened or not)
+2. Status of the key (pressed or not pressed)
+   
+Using Karnaugh maps, the logic condition for activating the alarm is derived and implemented using simple logic gates.
+
+The system consists of two inputs and one output.
+
+**Door**:
+
+- A = 1 : door is open
+- A = 0 : door is closed
+
+**Keys**:
+
+- B = 1 : Key Pressed
+- B = 0 : Key not pressed
+
+**Alarm**:
+
+- C = 1 : ON
+- C = 0 : OFF
+
+| A | B | C |
+|---|---|---|
+| 0 | 0 | 0 |
+| 0 | 1 | 0 |
+| 1 | 0 | 1(🚨) |
+| 1 | 1 | 0 |
+
+**K-map**:
+
+![website](https://i.postimg.cc/9XG3xV2m/Screenshot-2026-02-03-230531.png)
+
+**The Logic Circuit**:
+
+![website](https://i.postimg.cc/brHw8tth/image.png)
