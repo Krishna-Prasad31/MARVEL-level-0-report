@@ -174,3 +174,24 @@ The system consists of two inputs and one output.
 **The Logic Circuit**:
 
 ![website](https://i.postimg.cc/brHw8tth/image.png)
+
+# TASK 18: Sad servers - "Like LeetCode for Linux"
+
+Sad servers is a training ground to test your linux troubleshooting skills, it provides a wide range of problems to solve for every difficulty level. The best part of Sad sevres is that you dont get a lot of time to think and find the solution, there is a time limit after which the connection gets closed, this makes solving the problems challenging under pressure.
+
+For the task Sad server called "Command line murders". In this Sad server we have to find the murderer using the "CLUE" which were available. Using the clues we use various commands on various directories and files to finally findout the murderer.
+
+For this task i used commands like:
+
+- `ls` - list files and directories
+- `cd` - to navigate between directories
+- `cat`, `less` - to read file contents
+- `grep` - to search for specific patterns in files
+etc...
+
+![website](https://i.postimg.cc/VkqsCTs5/Screenshot-(419).png)
+![website](https://i.postimg.cc/h4mVYD2h/Screenshot-(420).png)
+![website](https://i.postimg.cc/mrFrrDz9/Screenshot-(421).png)
+![website](https://i.postimg.cc/qqB02MRq/Screenshot-(422).png)
+
+Finally after a couple of trial and error I successfully found out he Murderer.
