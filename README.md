@@ -195,3 +195,17 @@ etc...
 ![website](https://i.postimg.cc/qqB02MRq/Screenshot-(422).png)
 
 Finally after a couple of trial and error I successfully found out he Murderer.
+
+# **TASK 15: Active Participation:**
+
+I particpated in an intra college event called Impetus 25.0. It was organised by the IEEE UVCE club . IEEE conducted various competition during Impetus , i joined in two competitions called as
+1. **Synthetic Intelligence:** It was an event where the organisers give you a problem statement and you with the help of AI we have to find the most practical solution to the problem statement. Even though i didnt win it i had great fun attending it and got to learn more about good prompting.
+2. **BrainBids 2.0**: It was a general quiz competition where you are given points and you put your points at stake to get more points for answering correctly Ultimately Qualifying for subsequent rounds.
+
+    **Certificate**:
+   ![BrainBids](https://github.com/Krishna-Prasad31/MARVEL-level-0-report/blob/main/Screenshot%202026-02-05%20223018.png?raw=true)
+
+I also did a JavaScript course from Infosys Springboard. This course helped me to use javascript in web development and its diverse application in web dev, as it is considered as the *brain* of web development
+
+**Certificate**
+![JavaScript](https://github.com/Krishna-Prasad31/MARVEL-level-0-report/blob/main/Screenshot%20(450).png?raw=true)
