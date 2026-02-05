@@ -197,6 +197,8 @@ The system consists of two inputs and one output.
 
 ![website](https://i.postimg.cc/brHw8tth/image.png)
 
+
+
 # TASK 18: Sad servers - "Like LeetCode for Linux"
 
 Sad servers is a training ground to test your linux troubleshooting skills, it provides a wide range of problems to solve for every difficulty level. The best part of Sad sevres is that you dont get a lot of time to think and find the solution, there is a time limit after which the connection gets closed, this makes solving the problems challenging under pressure.
@@ -217,6 +219,49 @@ etc...
 ![website](https://i.postimg.cc/qqB02MRq/Screenshot-(422).png)
 
 Finally after a couple of trial and error I successfully found out he Murderer.
+
+# TASK 16: Datasheets Report Writing  
+## Study of L293D Motor Driver IC
+
+## Introduction
+
+The L293D is a motor driver integrated circuit used to control DC motors using microcontrollers like Arduino. Since microcontrollers cannot supply the required current to run motors directly, the L293D acts as an interface between the controller and the motor. This report is based on the study of the L293D datasheet and explains its working principle, H-bridge operation, and PWM control in brief.
+
+![website](https://europe1.discourse-cdn.com/arduino/original/4X/8/c/e/8ce1409b9cbf52aae99033291f5aa08275603f5e.jpeg)
+
+## Overview
+
+The L293D is a quadruple high-current half-H driver IC that can control two DC motors independently. It allows bidirectional rotation of motors and includes internal protection diodes to safeguard the circuit from back EMF produced by inductive loads.
+
+**Key points:**
+- Controls two DC motors
+- Maximum current of 600 mA per channel
+- Motor supply voltage up to 36 V
+- Built-in protection diodes
+
+## Pin Description
+
+The L293D has 16 pins which are divided into input, output, enable, and power pins. The input pins control the direction of the motor, while the enable pins are used to activate the motor and apply PWM for speed control. Output pins are connected directly to the motor terminals. The IC uses two power supplies: one for logic (Vcc1) and another for the motor (Vcc2).
+
+## Internal Structure and H-Bridge
+
+Internally, the L293D contains two H-bridge circuits. An H-bridge allows current to flow through the motor in either direction, enabling clockwise and anticlockwise rotation. By changing the logic levels at the input pins, the direction of motor rotation can be controlled. When both inputs are the same, the motor stops.
+
+## PWM Speed Control
+
+Pulse Width Modulation (PWM) is used to control the speed of the motor in the L293D. PWM signals are applied to the enable pins. By varying the duty cycle of the PWM signal, the average voltage across the motor changes, which in turn controls the speed of rotation.
+
+## Applications
+
+The L293D motor driver is commonly used in:
+- DC motor control systems
+- Robotic vehicles
+- Line follower and obstacle avoidance robots
+- Embedded system projects
+
+
+The L293D motor driver IC provides a simple and efficient solution for controlling DC motors in low-power applications. Studying its datasheet helped in understanding motor driving concepts such as H-bridge operation and PWM-based speed control, which are widely used in robotics and embedded systems.
+
 
 # **TASK 15: Active Participation:**
 
