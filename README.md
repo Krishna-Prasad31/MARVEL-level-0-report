@@ -1,4 +1,4 @@
-# Krishna Prasad's MARVEL-level-0-report
+
 
 # Task 2: API
 API(Application Programming interface) , API is a set of rules that governs the communication of frontend and backend in a website.For this task i made a **Weather Application**.Here the user gets an input component where they can enter a city name *for example: Bangalore*, when the user clicks enter, the webiste sends a request to the **OpenWeather** server and communicates with the server where it obatins realtime data about the weather and sends it back to the website in a json format. The json file which contains the data is then displayed Using *DOM Manipulation* and then displayed on the website.
@@ -69,9 +69,31 @@ I used HTML, CSS and React JS to develop my portfolio website
 ![website](https://github.com/Krishna-Prasad31/MARVEL-level-0-report/blob/main/Screenshot%20(441).png?raw=true)
 ![website](https://github.com/Krishna-Prasad31/MARVEL-level-0-report/blob/main/Screenshot%20(442).png?raw=true)
 ![website](https://github.com/Krishna-Prasad31/MARVEL-level-0-report/blob/main/Screenshot%20(443).png?raw=true)
-
-
 [GitHub Repository](https://github.com/Krishna-Prasad31/Personal-portfolio)
+
+# TASK 9: Tinkercad
+
+Tinkercad is an online simulation platform that allows users to design and test electronic circuits virtually. In this task, the objective was to get familiar with the Tinkercad environment and understand how basic electronic components work together through simulation. The task mainly focused on using an ultrasonic sensor along with a servo motor to create a simple radar-like object detection system.
+
+**Components used:**
+
+- Arduino UNO
+- LED display
+- Ultrasonic sensor
+- Connecting wires
+
+**Ultrasonic sensor:**
+
+An ultrasonic sensor is an electronic device used to measure distance by using high-frequency sound waves. It works by emitting ultrasonic pulses and measuring the time taken for the sound waves to reflect back from an object. Using this time delay and the speed of sound, the distance between the sensor and the object is calculated.
+
+Ultrasonic sensors are used in obstacle detection, Robotic assistance , parking assistance system and many other applications.
+
+![website](https://i.postimg.cc/76ZDJzyS/Screenshot-(451).png)
+![website](https://i.postimg.cc/nhfJYgJp/Screenshot-(452).png)
+![website](https://i.postimg.cc/pr5wKYcf/Screenshot-(453).png)
+
+
+
 
 # Task 10: Speed Control of DC Motor
 In this task the main components used were Arduino UNO, L298N and a working motor.
