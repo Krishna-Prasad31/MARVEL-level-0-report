@@ -276,3 +276,23 @@ I also did a JavaScript course from Infosys Springboard. This course helped me t
 
 **Certificate**
 ![JavaScript](https://github.com/Krishna-Prasad31/MARVEL-level-0-report/blob/main/Screenshot%20(450).png?raw=true)
+
+# Task 19: Make a Web app
+
+The objective of this task was to build a **Resource library** webapp using *Express js*. The application allows users to browse available learning resources such as articles and books. The users can also manage their account using Login and Registration features.
+
+**Tech stack and Tools used:**
+1. HTML, CSS, EJS
+2. Node js with Express js
+3. VS code
+
+**Structure**
+- `app.js` - main server file
+- `routes/` - contains route logic for home, authentication and resources
+- `views/` - frontend pages
+- `public` - CSS
+
+![website](https://i.postimg.cc/JhFb2ryn/Screenshot-(460).png)
+![website](https://i.postimg.cc/PrH1cFqQ/Screenshot-(461).png)
+   
+[GitHub Repository](https://github.com/Krishna-Prasad31/Resource-library)
